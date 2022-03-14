@@ -1,0 +1,16 @@
+i
+{
+    font-size: 50Px;
+    color: rgb(12, 11, 11);
+}
+.videos
+{
+    color: white;
+}
+.card:hover{
+    background-color: rgba(42, 42, 213, 0.829); color: white;
+}
+#end
+{
+    font-size: 30px;
+}
